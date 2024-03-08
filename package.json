@@ -1,0 +1,27 @@
+{
+  "name": "tea-proj-nika",
+  "version": "1.0.0",
+  "description": "Basic demonst app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nika0366/tea-proj-nika.git"
+  },
+  "dependencies": {
+    "tea-proj-nika": "1.0.0",
+    "tea-project-top-sok": "1.0.0",
+    "tea-demonstr-pr-ostr": "1.0.0",
+    "tea-demonst-project-ggg": "1.0.0",
+    "project_tea_ol": "1.0.0",
+    "project_tea_demonstration_omg": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nika0366/tea-proj-nika/issues"
+  },
+  "homepage": "https://github.com/Nika0366/tea-proj-nika#readme"
+}
